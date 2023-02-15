@@ -4,12 +4,16 @@
 - Future aim: a distributed online exchange/trade platform not suitable for abuse/scam/fraud/steal/ransack..
   
 
-## Online Trading 
- How It Works and How to Stay Safe When Trading Online
-Online trading is becoming increasingly popular worldwide as it offers traders virtually limitless possibilities, providing access to global financial markets from anywhere in the world. For instance, you can trade thousands of financial instruments using your computer or phone anytime from the comfort of your home. Among other things, investment in online trading can significantly strengthen your personal finances and help you achieve whatever your financial goals may be, securing a favorable future ahead of you.
+- How online trading works
+- How to be safe and secure in these stuff
 
-### What Is Online Trading?
-Simply put, online trading is trading done via the Internet. Traders and investors buy and sell financial instruments (such as individual stocks, bonds, exchange-traded funds (ETFs), mutual funds and index mutual funds, derivatives, etc.) online through a trading platform provided by a broker.
+Online trading usage is increasing worldwide, it offers much virtual potentials and sometimes damages to your investments.  
+Potentials/benefits are varied from providing access to global financial markets from anywhere in the world, to crypto/money exchange.   
+For instance, you can trade thousands of financial instruments using your computer or phone anytime, Among other things, investment in online trading can significantly strengthen your personal finances and help you achieve whatever your financial goals may be, securing a favorable future ahead of you.
+
+## What Is Online Trading?
+Simply put, online trading is trading done via the Internet.
+Traders and investors buy and sell financial instruments (such as individual stocks, bonds, exchange-traded funds (ETFs), mutual funds and index mutual funds, derivatives, etc.) online through a trading platform provided by a broker.
 
 Online trading also involves new risks that one should always keep in mind:
 
